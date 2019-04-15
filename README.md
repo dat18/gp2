@@ -14,7 +14,7 @@
 - ブログを選んで開設
   - [例](http://am1tanaka.hatenablog.com/)
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
-- 以上できたら、[Trello](https://trello.com/)のゲームプログラミング２のボードの今日の火付けのコメントに以下を書く
+- 以上できたら、[Trello](https://trello.com/)のゲームプログラミング２のボードの今日の日付のボートにコメントで以下を書く
   - 名前
   - ブログのURL
   - YouTubeのURL
