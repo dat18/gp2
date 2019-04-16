@@ -22,7 +22,7 @@
 
 ## ブログの書き方
 - 週1なので短くてよい
-  - 参考：[コガネブログ](http://baba-s.hatenablog.com/entry/2019/04/15/152000)
+  - 参考：[コガネブログ](http://baba-s.hatenablog.com/)
 - 書く内容
   - ブログの概要を1～数行でざっくりと。スクリーンショットがあるとよい
   - 目次
@@ -37,6 +37,9 @@
     - 関連する公式ページのURLなど
 
 ## ブログを書いてみよう
-- 興味のあるテーマを選んで、それについて調査してブログに書く
+- 作品に使えそうなアセットやライブラリを探す
+  - [アセットストア](https://assetstore.unity.com/)
+  - [Unity AssetStoreまとめ](http://www.asset-sale.net/)
+  - [コガネブログ](http://baba-s.hatenablog.com/)
+  - etc...
 - 最後にYouTubeで簡単に発表
-
