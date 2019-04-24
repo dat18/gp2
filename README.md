@@ -9,8 +9,15 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
-# 1回目(4/18)
+# 2回目(4/25)
 ## 予定
+- チーム制作で担当する技術の調査と発表(1)
+- 正式な企画決定は明日なので、今日は先週に続いて使いそうな技術の下準備と、ブログ作成
+- ヒアリングと作業
+- 最後にブログを画面に出すので簡単に報告
+
+# 1回目(4/18)
+## 内容
 - [シラバス](syllabus.md)の確認
 - ブログを選んで開設（元々あれば不要）
   - [例](http://am1tanaka.hatenablog.com/)
@@ -53,4 +60,3 @@
     - [Unity AssetStoreまとめ](http://www.asset-sale.net/)
     - [コガネブログ](http://baba-s.hatenablog.com/)
     - etc...
-
