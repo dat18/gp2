@@ -19,7 +19,7 @@
 - [日本ゲーム大賞のツイート](https://twitter.com/tokyo_game_show/status/1121681424455622658)
 
 ## ブログ発表
-
+- [ブログURL一覧](https://trello.com/c/wEek2G17/4-%E3%83%96%E3%83%AD%E3%82%B0url)
 
 # 2回目(4/25)
 ## 内容
