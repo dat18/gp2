@@ -34,12 +34,8 @@
 インストールが完了したら、Visual Studioのインストールへ進む。
 
 ### Visual Studio 2019のインストール
-[こちら](https://ameblo.jp/minato58-work/entry-12451856226.html)を参照。
-
-ついでに、Visual C#の.NETプロジェクトもインストールする。
-
-### Unityのセットアップ
-1. Unityを起動
+1. [こちら](https://ameblo.jp/minato58-work/entry-12451856226.html)を参照して、Visual Studioのインストールを完了させる
+1. 続いて、Unityを起動してVS2019の設定
 1. Visual Studio 2019をエディターに選択
 1. Unityで新規プロジェクトを作成
 1. スクリプトを作成して、ダブルクリックして、Visual Studioが正常に起動するか確認する
