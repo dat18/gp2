@@ -9,6 +9,51 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
+# 7回目(6/6)
+## 予定
+- Unity2019とVisual Studio2019のインストール
+
+## 手順
+### 準備
+1. 担当PCの割り振り
+  - 一度にすべてをやるとネットで遅くなるので、半分をインストールしつつ、残りのPCでは作業を進められるようにしておく
+1. PCをStudentで起動
+
+### Unity2019のインストール
+1. Unity Hubを起動
+1. Unity Hubを更新
+  - パスワードを求められたら呼んでください
+1. 右上のインストールをクリック
+1. Unity2019.1の最新版を選んで次へをクリック
+1. 以下のモジュールを追加
+  - WebGL Build Support
+  - Windows Build Support(IL2CPP)
+  - 上記以外にチェックがあったら外す
+1. 実行をクリック
+
+インストールが完了したら、Visual Studioのインストールへ進む。
+
+### Visual Studio 2019のインストール
+[こちら](https://ameblo.jp/minato58-work/entry-12451856226.html)を参照。
+
+ついでに、Visual C#の.NETプロジェクトもインストールする。
+
+### Unityのセットアップ
+1. Unityを起動
+1. Visual Studio 2019をエディターに選択
+1. Unityで新規プロジェクトを作成
+1. スクリプトを作成して、ダブルクリックして、Visual Studioが正常に起動するか確認する
+
+### アンインストール
+1. Unity Hubから操作が可能であれば、Unity2017をアンインストールする
+1. Visual Studio 2017をアンインストールする
+
+以上のアンインストールを開始したら、待機していたPCでのインストールを始める。
+
+## 作業完了後
+- ブログのテーマを決めて、執筆を開始
+
+
 # 6回目(5/30)
 - 仕上げ
 - ゲーム動画の撮影
