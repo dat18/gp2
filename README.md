@@ -56,6 +56,10 @@ Unity2019のインストールの3.へ。
 1. 教員にパスワードを入力してもらう
 1. [こちら](https://ameblo.jp/minato58-work/entry-12451856226.html)を参照して、Visual StudioのインストールとUnityの設定を完了させる
 
+### Visual Studio 2019の起動
+- サインインは教員を呼ぶ
+- 開発設定を*Visual C#*、色は*濃色*で*Visual Studioの開始*
+
 ### 動作確認
 1. Unity Hubで新規プロジェクトを作成。名前は何でもよい
 1. スクリプトを作成して、ダブルクリックして、Visual Studioが正常に起動するか確認する
