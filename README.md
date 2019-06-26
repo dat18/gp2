@@ -9,8 +9,9 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
+# 10回目(6/27)
 # 9回目(6/20)
-## 予定
+## 内容
 - プログの発表
   - [Trelloにブログやポートフォリオへのリンクと次回予定を記載](https://trello.com/b/Z6HEkj2N/1%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B02)
 - テーマの相談
