@@ -9,6 +9,21 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
+# 12回目(7/11)
+## 話題
+- [ぐーるらいふ. unity1week「あつめる」 GOLD RUSHの実装について](http://ghoul-life.hatenablog.com/entry/2019/07/08/214036)
+- [初心者がUnityでなんかしちゃうぞBlog.  WebGLで画像つきツイートをしたい！](https://unity-senpai.hatenablog.com/entry/2019/07/07/130111)
+- [Unityインターハイブログ](http://inter-high-blog.unity3d.jp/2019/07/08/unity1week/)
+
+## 予定
+- プログの発表
+  - [Trelloにブログやポートフォリオへのリンクと次回予定を記載](https://trello.com/b/Z6HEkj2N/1%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B02)
+- テーマの相談
+  - 応募作品の実装の解説
+  - これから実装したいことを明確化
+- 各自作業
+
+
 # 11回目(7/4)
 # 10回目(6/27)
 # 9回目(6/20)
