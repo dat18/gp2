@@ -16,8 +16,14 @@
 
 
 ## 参考
-- http://am1tanaka.hatenablog.com/entry/2019/08/23/211358
-- http://am1tanaka.hatenablog.com/entry/2019/08/04/definitive-stylized-water
+- [Definitive Stylized Waterで海る](http://am1tanaka.hatenablog.com/entry/2019/08/04/definitive-stylized-water)
+- [Lighting Settingsを別のシーンにコピーするエディター拡張](http://am1tanaka.hatenablog.com/entry/2019/08/23/211358)
+
+### 以下、下書き
+- [ProTexでプロシージャルにUI用のイメージを作る](http://am1tanaka.hatenablog.com/draft/4kwWmx8ezHs6_nDG_272XbEDbMo)
+- [アニメーションのステートマシンとインターラプション](http://am1tanaka.hatenablog.com/draft/YvMESUEgC7ETxob0aOL-gmoFJ0Y)
+- [Addressable Asset Systemでステージ配信](http://am1tanaka.hatenablog.com/draft/luhf5PRyRPeuSCvwsJiakpi4KeQ)
+- [シーンをフェードアウトさせてる間に次のシーンを読み込む](http://am1tanaka.hatenablog.com/draft/B-1BOhW7oYGJaq8-4bX24ewlghU)
 
 
 ## ブログの書き方
