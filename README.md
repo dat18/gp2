@@ -9,6 +9,23 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
+# 後期5回目(11/1)
+## もくもく会形式
+- 最初に今日の作業予定を発表
+  - Photon Boltのサポート
+  - etc...
+- 今日の予定
+- 最後に成果を報告する
+  - ツイキャスを利用
+    - スタートメニューから`tw`で検索して、*TwitCasting Desktop Live*を起動
+    - 未インストールの場合、[ここ](http://twitcasting.tv/tdl_download.php)を開いて、ダウンロードして実行 > 規約を承諾してインストールする
+    - Explorerを開いて、以下をバスにコピペして開いて、各項目を設定してください
+      - `X:\2019年\ゲーム学科\Teacher\tanaka\twitcasting.txt`
+    - 自分の順番になったら動画を開始して報告
+
+## Ruby on Railsのインストールメモ
+- https://github.com/dat18/gp2/wiki/Ruby-on-Rails%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
+
 # 後期4回目(10/24)
 ## もくもく会形式
 - 最初に今日の作業予定を発表
