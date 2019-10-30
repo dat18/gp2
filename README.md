@@ -9,7 +9,7 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
-# 後期5回目(11/1)
+# 後期5回目(10/31)
 ## もくもく会形式
 - 最初に今日の作業予定を発表
   - Photon Boltのサポート
