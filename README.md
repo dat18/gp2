@@ -9,6 +9,10 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
+# 後期9回目(12/5)
+## 話題
+- [日本初の ISAs (転職が成功するまで、学費の支払いが一切発生しない) 本格的なコンピュータサイエンス＆プログラミングの学校](https://twitter.com/mocchicc/status/1200248083973435392)
+
 # 後期8回目(11/28)
 ## もくもく会形式
 - 今日の予定
