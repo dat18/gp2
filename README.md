@@ -22,8 +22,9 @@
 
 ### GitHub Desktop
 - GitHubデスクトップを起動
-- 少し待つと、上の方にRestartすると更新できるという文言が表示されるので、それをクリック
-- パスワードが必要になったら呼んでもらう
+- Helpメニューから、About GitHub Desktopをクリックして開く
+- ダウンロードが始まっていたら、完了するのを待つ
+- ダウンロードが完了していて、ボタンが表示されていたらクリックすると、GitHub Desktopが閉じて、アップデートが始まる
 
 ### VisualStudio
 - スタートメニューから、Visual Studio Installerを起動
