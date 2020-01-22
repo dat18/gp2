@@ -9,6 +9,15 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
+# 後期14回目(1/23)
+
+## もくもく会形式
+- 講師：　GreeningEx2019とHungraviyEx2019の作品ページを作る / Greeningの動画、台詞の確認 / タイトルからクレジット表示 / Greeningステージ作成 / 新規にビルドされたものがあれば確認
+  - [トップページ](https://dat18.github.io/works)
+  - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+
+
+
 # 後期13回目(1/16)
 ## 残り期間でやるべきこと
 - DVDに焼くデータについて
