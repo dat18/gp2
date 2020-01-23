@@ -12,7 +12,7 @@
 # 後期14回目(1/23)
 
 ## もくもく会形式
-- 講師：　<s>GreeningEx2019とHungraviyEx2019の作品ページを作る</s> / Greeningの動画、台詞の確認 / <s>タイトルからクレジット表示</s> / Greeningステージ作成 / 新規にビルドされたものがあれば確認
+- 講師：　<s>GreeningEx2019とHungraviyEx2019の作品ページを作る</s> / <s>タイトルからクレジット表示</s> / Greeningステージ作成 / 新規にビルドされたものがあれば確認
   - [トップページ](https://dat18.github.io/works)
   - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 
