@@ -25,7 +25,7 @@
 |Greening|△| |
 |Hungraviy|〇| |
 |A Little Star Story|△|〇|
-|SeaDrifter| |△|
+|SeaDrifter|△|〇|
 
 - Greening
   - アイコン未設定
