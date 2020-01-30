@@ -22,12 +22,18 @@
 
 |タイトル|実行ファイル|Webページ|
 |:-:|:-:|:-:|
-|Greening| | |
+|Greening|△| |
 |Hungraviy|〇| |
-|A Little Star Story| |〇|
-|SeaDrifter| |〇|
+|A Little Star Story|△|〇|
+|SeaDrifter| |△|
 
-
+- Greening
+  - アイコン未設定
+- A Little Star Story
+  - アイコン未設定
+  - Canvas Scaler未設定
+- SeaDrifter
+  - Canvas Scaler未設定
 
 
 # 後期14回目(1/23)
