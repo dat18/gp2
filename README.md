@@ -18,7 +18,7 @@
   - [トップページ](https://dat18.github.io/works)
   - 参考 [paiza. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
 
-## 現状確認
+## 進捗
 
 |タイトル|実行ファイル|Webページ|
 |:-:|:-:|:-:|
