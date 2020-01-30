@@ -11,6 +11,8 @@
 
 # 後期15回目(1/30)
 
+- [作品ページのリンクの貼り方、および、作成場所](https://docs.google.com/document/d/1QuDpYYDQyfXpXZoGNVKhUy4LQOXX9suT9j_RygTdwk8/)
+
 ## もくもく会形式
 - 講師：　Greeningステージ作成
   - [トップページ](https://dat18.github.io/works)
@@ -22,7 +24,7 @@
 |:-:|:-:|:-:|
 |Greening| | |
 |Hungraviy|〇| |
-|A Little Star Story| | |
+|A Little Star Story| |〇|
 |SeaDrifter| |〇|
 
 
