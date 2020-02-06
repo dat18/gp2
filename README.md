@@ -9,6 +9,20 @@
 - 卒業制作では作品の**進捗報告**。この講義では、**技術の説明や実装手順**など
 - [発表用YouTubeURLの作成](https://docs.google.com/document/d/11rh1ojJnCJInI33XEk9xX3T_bHfKfoI_BH0foDVSGtM/)
 
+# 後期16回目(2/6)
+## 予定
+- すべての作業を完了させて、最終版フォルダーに提出
+  - `X:\2019年\ゲーム学科\Student\卒業制作\最終版`
+  - 明日の1コマ目に、このフォルダーのデータをそのままDVDに書き込むので、明日は修正できないことを想定しておく
+- Webページは最低限の状態になっている。ここは各自、いつでも変更可能なので、作品の更新などを続けて構わない
+  - [トップページ](https://dat18.github.io/works)
+  - トップページの修正依頼はプルリクエストで行う
+- テストプレイ
+
+## もくもく会形式
+- 講師：　Mirrorの調査。NetworkBehaviourがうまく動作していない / 提出作品のテストプレイ
+
+
 # 後期15回目(1/30)
 
 - [作品ページのリンクの貼り方、および、作成場所](https://docs.google.com/document/d/1QuDpYYDQyfXpXZoGNVKhUy4LQOXX9suT9j_RygTdwk8/)
